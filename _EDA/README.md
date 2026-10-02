@@ -1,15 +1,15 @@
 # Exploratory Data Analysis w/ SQL: Job Market Analysis
 
-A SQL project analyzing the data engineer job market using real world job posting data. It demonstrates my ability to **write production-quality analytical SQL, design efficient queries, and turn business questions into data-driven insights**.
+A SQL project analyzing the data emgineer job market using real world job posting data.It demonstarates my ability to **write production-quality analytical SQL, design efficient queries, and trn business questions into data-driven insights**.
 
 ## Executive Summary
 
-- **Project scope:**3 analytical queries** that answer key questions abut the data engineer job market
+- **Project scope:**3 analytical queries** that answer key questions abut the data engineer job market.
 
 - **Data modeling:** Used **multi-table joins**
-across fact and dimension tables to extract insights
+across fact and dimension tables to extract insights.
 
-- **Analytics:** Applied **aggregations, filtering, and sorting** to find top skills by demand, salary, and overall value
+- **Analytics:** Applied **aggregations, filtering, and sorting** to find top skills by demand, salary, and overall value.
 
 - **Outcomes:**Delivered **actionable insights** on SQL/Python dominance, cloud trends, and salary patterns.
 
